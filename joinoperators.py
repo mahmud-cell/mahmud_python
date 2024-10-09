@@ -1,4 +1,4 @@
-# x = ["hi ", "there " , "everyone"]
-# result = "".join(x)
-# print(result)
+x = ["hi ", "there " , "everyone"]
+result = "".join(x)
+print(result)
 

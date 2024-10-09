@@ -1,11 +1,11 @@
-# #inefficient
+ #inefficient
 # words = ["mahmud", "kabir", "sadik"]
-# sentence = ""
-# for word in words:
-#     sentence+=word+""
-#     print(sentence.strip())
+# sentence = words+""
+
+
+
 
 # efficient
 words = ["mahmud", "kabir", "sadik"]
-sentence = "".join(words)
-print(sentence)
+sentences = "".join(words)
+print(sentences)
